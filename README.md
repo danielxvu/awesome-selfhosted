@@ -251,7 +251,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 ### Multimedia Streaming
 
 - [Icecast 2](http://www.icecast.org/) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://git.xiph.org/?p=icecast-server.git;a=summary), [Clients](http://www.icecast.org/apps/)) `GPL-2.0` `C`
-- [Jellyfin](https://jellyfin.media) - Streaming audio/video server with a slick UI and robust transcoding capabilities (fork of Emby). ([Source Code](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#`
+- [Jellyfin](https://jellyfin.media) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, Xbox, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#`
 
 
 ### Audio Streaming
@@ -367,6 +367,7 @@ _See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://g
 - [IronFunctions](https://github.com/iron-io/functions) - The serverless microservices platform by [iron.io](https://www.iron.io/). `Apache-2.0` `Go`
 - [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`
 - [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code](https://github.com/openfaas/faas)) `MIT` `Go`
+- [Trusted-CGI](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go`
 
 ### API Management
 
@@ -444,13 +445,14 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
 - `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
 - `ECL-2.0` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
 - `EPL-1.0` - [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
+- `EPL-2.0` - [Eclipse Public License, Version 2.0](https://www.eclipse.org/legal/epl-v20.html)
 - `EUPL-1.2` - [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12)
 - `GFDL-1.1-only` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
 - `GFDL-1.1-or-later` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-or-later.html)
 - `GFDL-1.2-only` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
 - `GFDL-1.2-or-later` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-or-later.html)
-- `GFDL-1.3-only` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.3-only.html)
-- `GFDL-1.3-or-later` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.3-or-later.html)
+- `GFDL-1.3-only` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-only.html)
+- `GFDL-1.3-or-later` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-or-later.html)
 - `GPL-1.0` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
 - `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 - `GPL-2.0-or-later` - [GNU General Public License v2.0 or later](https://spdx.org/licenses/GPL-2.0-or-later.html)
